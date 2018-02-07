@@ -1,0 +1,11 @@
+c:\users\anurag\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+c:\users\anurag\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+c:\users\anurag\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+c:\users\anurag\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\Alchemy.dll
+c:\users\anurag\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\log4net.dll
+c:\users\anurag\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\Newtonsoft.Json.dll
+c:\users\anurag\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\log4net.xml
+c:\users\anurag\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\bin\Debug\Newtonsoft.Json.xml
+c:\users\anurag\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.csprojResolveAssemblyReference.cache
+c:\users\anurag\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+c:\users\anurag\documents\visual studio 2015\Projects\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb

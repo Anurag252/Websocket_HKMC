@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script type="text/javascript">
+
+       
+
+        var ws = new WebSocket("ws://localhost:1111");
+        ws.onopen = function () {
+            alert("About to send data");
+            ws.send("Hello World"); // I WANT TO SEND THIS MESSAGE TO THE SERVER!!!!!!!!
+            alert("Message sent!");
+        };
+
+        ws.onmessage = function (evt) {
+            alert("About to receive data");
+            var received_msg = evt.data;
+            alert("Message received = " + received_msg);
+        };
+        ws.onclose = function () {
+            // websocket is closed.
+            alert("Connection is closed...");
+        };
+
+
+
+       
+    </script>
+</head>
+<body>
+
+</body>
+</html>
